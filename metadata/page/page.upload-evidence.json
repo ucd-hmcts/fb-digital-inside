@@ -5,9 +5,7 @@
     {
       "_id": "page.upload-evidence--upload.auto_name__1",
       "_type": "upload",
-      "label": "Document",
-      "name": "auto_name__1",
-      "repeatable": true
+      "name": "auto_name__1"
     }
   ],
   "heading": "Upload documents",

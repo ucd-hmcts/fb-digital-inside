@@ -1,0 +1,47 @@
+{
+  "_id": "page.service-jurisdiction",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.service-jurisdiction--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.service-jurisdiction--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "hint": "",
+          "label": "Claim money, property or damages, or recover property or goods from a person or organisation",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.service-jurisdiction--radios.auto_name__2--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Respond to a fine, jury summons or notice, or appeal a court decision",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.service-jurisdiction--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Apply for probate, get a divorce, apply for court protection or make decisions for someone who lacks capacity",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.service-jurisdiction--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Apply to an employment tribunal, appeal a mental health, immigration or asylum decision or appeal a decision made by a regulator or registrar",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "What are you trying to do?",
+      "name": "auto_name__2"
+    }
+  ],
+  "enableSteps": true,
+  "steps": [
+    "page.civil-services",
+    "page.crime-services",
+    "page.family-services",
+    "page.tribunals-services"
+  ],
+  "url": "service-jurisdiction"
+}

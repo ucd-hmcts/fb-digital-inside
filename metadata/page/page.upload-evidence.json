@@ -1,0 +1,27 @@
+{
+  "_id": "page.upload-evidence",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.upload-evidence--textarea.auto_name__7",
+      "_type": "textarea",
+      "hint": "For example, 'A PDF of emails sent between January and April 2020'",
+      "label": "Describe the document(s) you're uploading",
+      "name": "auto_name__7",
+      "repeatable": true,
+      "repeatableAdd": "Add another document",
+      "repeatableDelete": "Remove this document"
+    },
+    {
+      "_id": "page.upload-evidence--upload.auto_name__8",
+      "_type": "upload",
+      "label": "Choose a file",
+      "name": "auto_name__8"
+    }
+  ],
+  "heading": "Upload documents",
+  "steps": [
+    "page.upload-evidence-check"
+  ],
+  "url": "upload-evidence"
+}

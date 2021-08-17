@@ -1,0 +1,50 @@
+{
+  "_id": "page.crime-services",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.crime-services--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.crime-services--radios.auto_name__4--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Appeal a crown court decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.crime-services--radios.auto_name__4--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Appeal a magistrates' court decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.crime-services--radios.auto_name__4--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Pay a court fine",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.crime-services--radios.auto_name__4--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "Respond to a jury summons",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.crime-services--radios.auto_name__4--radio.auto_value__1--5",
+          "_type": "radio",
+          "label": "Respond to a single justice procedure notice",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "Which service are you using?",
+      "name": "auto_name__4"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "crime-services"
+}

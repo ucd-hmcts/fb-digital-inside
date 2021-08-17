@@ -1,9 +1,16 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
-  "steps": [],
+  "body": "**If you haven't yet started an application**\r\n\r\n[View a list of court and tribunal services](https://www.gov.uk/government/collections/court-and-tribunal-forms) to choose a service that meets your needs.",
+  "heading": "Submit documents to HMCTS",
+  "lede": "Use this service to submit additional documents to HMCTS to support an application you've already made.",
+  "steps": [
+    "page.new-or-existing",
+    "page.service-jurisdiction",
+    "page.upload-evidence",
+    "page.your-details",
+    "page.check-answers",
+    "page.done-page"
+  ],
   "url": "/"
 }

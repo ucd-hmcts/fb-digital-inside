@@ -1,0 +1,56 @@
+{
+  "_id": "page.family-services",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.family-services--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.family-services--radios.auto_name__5--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Adopt a child",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.family-services--radios.auto_name__5--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Appeal a family court decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.family-services--radios.auto_name__5--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Apply for a divorce",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.family-services--radios.auto_name__5--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "Apply for a domestic violence or forced marriage protection order",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.family-services--radios.auto_name__5--radio.auto_value__1--5",
+          "_type": "radio",
+          "label": "Apply for probate",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.family-services--radios.auto_name__5--radio.auto_value__1--6",
+          "_type": "radio",
+          "label": "Apply to court about child arrangements",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "Which service are you using?",
+      "name": "auto_name__5"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "url": "family-services"
+}

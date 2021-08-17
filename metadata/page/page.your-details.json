@@ -1,0 +1,38 @@
+{
+  "_id": "page.your-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-details--text.auto_name__9",
+      "_type": "text",
+      "label": "Your full name",
+      "name": "auto_name__9"
+    },
+    {
+      "_id": "page.your-details--date.auto_name__10",
+      "_type": "date",
+      "legend": "Your date of birth",
+      "name": "auto_name__10"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__11",
+      "_type": "text",
+      "label": "Your postcode",
+      "name": "auto_name__11"
+    },
+    {
+      "_id": "page.your-details--number.auto_name__12",
+      "_type": "number",
+      "label": "Best contact number",
+      "name": "auto_name__12"
+    },
+    {
+      "_id": "page.your-details--email.auto_name__13",
+      "_type": "email",
+      "label": "Your email address",
+      "name": "auto_name__13"
+    }
+  ],
+  "heading": "About you",
+  "url": "your-details"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": "page.done-page",
+  "_type": "page.confirmation",
+  "body": "## What happens next\r\n\r\nSomeone from HMCTS will be in touch with you within 5 working days.",
+  "heading": "Thank you for submitting documents to HM Courts and Tribunals Service.",
+  "url": "done-page"
+}

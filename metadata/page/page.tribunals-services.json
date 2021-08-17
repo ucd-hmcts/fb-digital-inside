@@ -1,0 +1,99 @@
+{
+  "_id": "page.tribunals-services",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.tribunals-services--radios.auto_name__6",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Resolve an agricultural land or drainage dispute",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "Appeal a benefit decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "Appeal a call up into the reserve forces",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--4",
+          "_type": "radio",
+          "label": "Appeal a criminal injury compensation decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--5",
+          "_type": "radio",
+          "label": "Appeal a gangmasters licensing decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--6",
+          "_type": "radio",
+          "label": "Appeal a health or social care decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--7",
+          "_type": "radio",
+          "label": "Appeal a land or property decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--8",
+          "_type": "radio",
+          "hint": "",
+          "label": "Appeal a regulatory decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--9",
+          "_type": "radio",
+          "label": "Appeal a tax decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--10",
+          "_type": "radio",
+          "label": "Appeal a war pension or armed forces compensation decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--11",
+          "_type": "radio",
+          "label": "Appeal an immigration or asylum decision",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--12",
+          "_type": "radio",
+          "label": "Apply for immigration bail",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.tribunals-services--radios.auto_name__6--radio.auto_value__1--13",
+          "_type": "radio",
+          "label": "Make a claim against your employer to an employment tribunal",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "Which service are you using?",
+      "name": "auto_name__6",
+      "show": {
+        "identifier": "auto_name__2",
+        "operator": "is",
+        "value": "auto_value__4"
+      }
+    }
+  ],
+  "url": "tribunals-services"
+}

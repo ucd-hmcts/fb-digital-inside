@@ -1,0 +1,62 @@
+{
+  "_id": "page.civil-services",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.civil-services--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Apply to the Court of Appeals",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Apply for an injunction",
+          "value": "auto_value__6"
+        },
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Claim damages",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Claim money",
+          "value": "auto_value__8"
+        },
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Make a cost assessment order",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__10",
+          "_type": "radio",
+          "label": "Recover money you're owed",
+          "value": "auto_value__10"
+        },
+        {
+          "_id": "page.civil-services--radios.auto_name__3--radio.auto_value__11",
+          "_type": "radio",
+          "label": "Repossess property or goods",
+          "value": "auto_value__11"
+        }
+      ],
+      "legend": "Which service are you using?",
+      "name": "auto_name__3"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "civil-services"
+}

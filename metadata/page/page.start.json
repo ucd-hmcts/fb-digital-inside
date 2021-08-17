@@ -5,7 +5,6 @@
   "heading": "Submit documents to HMCTS",
   "lede": "Use this service to submit additional documents to HMCTS to support an application you've already made.",
   "steps": [
-    "page.new-or-existing",
     "page.service-jurisdiction",
     "page.upload-evidence",
     "page.your-details",

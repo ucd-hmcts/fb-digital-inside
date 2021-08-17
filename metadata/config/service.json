@@ -2,5 +2,7 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Submit documents to HMCTS"
+  "name": "Submit documents to HMCTS",
+  "phase": "alpha",
+  "phaseText": "This is a prototype service"
 }

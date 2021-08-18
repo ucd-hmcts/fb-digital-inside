@@ -6,7 +6,7 @@
   "lede": "Use this service to submit additional documents to HMCTS to support an application you've already made.",
   "steps": [
     "page.service-jurisdiction",
-    "page.upload-evidence",
+    "page.upload-documents",
     "page.your-details",
     "page.check-answers",
     "page.done-page"

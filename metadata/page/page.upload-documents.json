@@ -1,0 +1,18 @@
+{
+  "_id": "page.upload-documents",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload-documents--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Document",
+      "name": "auto_name__1",
+      "repeatable": true,
+      "repeatableHeading": "Upload documents"
+    }
+  ],
+  "steps": [
+    "page.upload-documents-check"
+  ],
+  "url": "upload-documents"
+}
